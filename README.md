@@ -1,7 +1,7 @@
-# Neural Network Implementation for Multi-Class Classification in Python
+# Neural Network Implementation for MultiClass Classification in Python
 
 ## Overview
-This repository contains the Implementation of a neural network for multi-class classification in Python from scratch. Two distinct datasets were utilized to demonstrate the functionality of the neural network.
+This repository contains the Implementation of a neural network for multiclass classification in Python from scratch. Two distinct datasets were utilized to demonstrate the functionality of the neural network.
 
 ### Datasets
 
